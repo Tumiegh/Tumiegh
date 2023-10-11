@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6c0f9b95746151.5e9ecde69599e.gif)](https://tumiegh.io)
 <h1 align="center">Hi 👋, I'm Itumeleng</h1>
-<h3 align="center">A passionate Software Engineer from South Africa</h3>
+<h3 align="center">A passionate Computer Science geek from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tumiegh&label=Profile%20views&color=0e75b6&style=flat" alt="tumiegh" /> </p>
