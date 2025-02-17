@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tumiegh&label=Profile%20views&color=0e75b6&style=flat" alt="tumiegh" /> </p>
 
-- 🔭 I’m currently working on **Achieving my Software Engineer Certificate**
+- 🔭 I’m currently working on **Being a Wethinkcode Graduate**
 
-- 🌱 I’m currently learning **Back-End**
+- 🌱 I’m currently learning **Software Engineer NQ6**
 
-- 😎 My Achievements **Front-End Certificates**
+- 😎 My Achievements **Software Engineer Graduate**
 
-- 😉 My Upcoming Achievemnts **Software Engineer Certificate and Back-End Certificate.**
+- 😉 My Upcoming Achievemnts **Hackathon Participate**
 
 - 📫 How to reach me **tumieghthipe62@gmail.com**
 
